@@ -12,7 +12,7 @@ sudo nohup python3 app.py > log.txt 2>&1 &
 explanation: 
 nohup => allows to run command/process or shell script that can continue running in the background after you log out from a shell.
 python3 app.py => this is how you normally start your flask app; note, if you called your python script something other then app.py, you will need to replace app.py with the name of the .py file you created 
-> log.txt => it forword the output to this file.
+log.txt => it forword the output to this file.
 2>&1 = move all the stderr to stdout.
 & = at the end of the command, allows you to run a command/process in background on the current shell.
 Deliverable #1: share GitHub repo URL with me
