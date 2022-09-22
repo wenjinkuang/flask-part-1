@@ -1,6 +1,6 @@
 Step 1: Create a Virtual Machine [VM]
 
-Step 2: Make sure everything is updated on the VMs through the command 'sude apt-get update' 
+Step 2: Make sure everything is updated on the VMs through the command 'sudo apt-get update' 
 
 Step 3: Install python onto the VMs through the command 'sudo apt install python3-pip'
 
